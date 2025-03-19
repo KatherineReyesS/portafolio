@@ -87,7 +87,7 @@ body {
 .presentacion__enlaces__link{
     width: 50%;
     text-align: center;
-    padding: 15px 0;
+    padding: 21.5px 0;
     border-radius: 8px;
     font-size:1.5rem;
     font-weight: 600;
@@ -97,7 +97,7 @@ body {
     border: 2px solid var(--color-terciario);
     display: flex;
     justify-content: center;
-    gap: 10px;
+    gap: 16px;
 
 }
 
