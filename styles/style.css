@@ -89,7 +89,7 @@ body {
     text-align: center;
     padding: 21.5px 0;
     border-radius: 8px;
-    font-size: 1rem;
+    font-size: 1.5rem;
     font-weight: 600;
     text-decoration: none;
     color: var(--color-secundario);
@@ -133,7 +133,7 @@ body {
 
     .presentacion {
         flex-direction: column-reverse;
-        padding: 5;
+        padding: 5%;
     }
     
     .presentacion__contenido{
